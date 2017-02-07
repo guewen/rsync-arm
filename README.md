@@ -1,7 +1,7 @@
 rsync
 =====
 
-Simple rsync server running in a docker container
+Simple rsync server running in a docker container for the ARM architecture
 
 This is based off of https://github.com/nabeken/docker-volume-container-rsync with a few modifications. That project provides a volume for a docker mount, where as this provides just a simple, unauthenticated rsync server.
 

@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM resin/rpi-raspbian
 MAINTAINER bfosberry
 
 RUN apt-get update && \
